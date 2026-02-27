@@ -3,4 +3,5 @@
     <string name="smart_pixels_title">திறன் பிக்சல்கள்</string>
     <string name="smart_pixels_enable_title">திறன் பிக்சல்களை இயக்குக</string>
     <string name="smart_pixels_on_power_save_title">[Auto-enable on battery saver in Tamil]</string>
+<string name="smart_pixels_percent">Percent of pixels to disable</string>
 </resources>
